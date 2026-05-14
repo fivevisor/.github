@@ -1,9 +1,25 @@
-![Banner](https://fivevisor.com/files/github_banner.png)
+<img src="https://i.imgur.com/jvxvved_d.webp?maxwidth=760&fidelity=grand" width="100%" alt="Fivevisor Banner">
 
-# Welcome to Fivevisor
+# .github
 
-Managing your FiveM servers has never been so powerful and easy. Fivevisor is a comprehensive management platform that allows you to keep your finger on the pulse of your gaming community. Control every corner of your server, maximise the player experience and perfect your operational processes.
+### Global configuration hub for Fivevisor
+> Manages community health files, organization profile and shared GitHub workflows.
 
-## Contact Us
+---
 
-Reach out to us via email at contact@fivevisor.com for assistance and technical support. We’re here to help with any questions or issues you may have!
+## Overview
+This repository is a core component of the **Fivevisor** ecosystem, specifically handling the .github layer to ensure a seamless experience across the platform.
+
+## Key Features
+- **Organization Profile README** - **Issue & Pull Request Templates** - **Shared CI/CD Workflows** - **Community Health Guidelines**
+
+## Related Repositories
+- [app](https://github.com/fivevisor/app) — Management Dashboard
+- [web](https://github.com/fivevisor/web) — Public Website
+- [cdn](https://github.com/fivevisor/cdn) — Content Delivery
+- [.github](https://github.com/fivevisor/.github) — Global Config
+
+---
+<p align="center">
+  Built with ❤️ by <b>Fivevisor Team</b>
+</p>

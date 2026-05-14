@@ -1,9 +1,23 @@
-![Banner](https://fivevisor.com/files/github_banner.png)
+![Fivevisor Banner](https://cdn.dont-ping.me/api/🤯💩👐🖖🙃.png)
 
-# Official Brand
+# .github (Organization Config)
 
-Official brand by Fivevisor.
+### Global configuration hub for Fivevisor
+> Manages community health files, organization profile and shared GitHub workflows.
 
-## Contact Us
+---
 
-Reach out to us via email at contact@fivevisor.com for assistance and technical support. We’re here to help with any questions or issues you may have!
+## Overview
+This repository is used to store organization-wide files. It houses the public profile README and centralizes GitHub specific configurations to maintain consistency across all Fivevisor repositories.
+
+## Structure
+* **profile/** — Contains the README that appears on the Fivevisor organization profile.
+* **.github/** — Contains issue templates, PR templates, and shared workflow actions.
+
+## Related Repositories
+* [app](https://github.com/fivevisor/app)
+* [web](https://github.com/fivevisor/web)
+* [cdn](https://github.com/fivevisor/cdn)
+
+---
+**Fivevisor Organization Resources**

@@ -10,10 +10,7 @@ Fivevisor provides a robust ecosystem for server owners and developers to manage
 
 ## 🚀 Ecosystem
 
--   **[app](https://github.com/fivevisor/app)** — Central management dashboard for server control and monitoring.
--   **[web](https://github.com/fivevisor/web)** — Public-facing landing page, features, and documentation.
--   **[cdn](https://github.com/fivevisor/cdn)** — Secure gateway for presigned uploads and asset delivery via Cloudflare R2.
--   **[.github](https://github.com/fivevisor/.github)** — Organization-wide configurations and community standards.
+You can explore all our specialized tools and services directly from our [Organization Repositories](https://github.com/orgs/fivevisor/repositories) page. Our ecosystem is built on a modular architecture to provide a seamless management experience.
 
 ## 🛠 Infrastructure
 
